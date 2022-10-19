@@ -132,7 +132,7 @@
         "express": "^4.18.1",
         "google-assistant": "github:Melvin-Abraham/google-assistant#g-assist",
         "grpc": "1.24.6",
-        "isomorphic-dompurify": "^0.15.0",
+        "isomorphic-dompurify": "^0.22.0",
         "marked": "^3.0.2",
         "node-fetch": "^2.6.1"
     },
